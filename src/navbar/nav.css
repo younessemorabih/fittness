@@ -1,0 +1,26 @@
+body{
+       height: 1000vh;
+}
+.nav-bar{
+      text-align:center;
+      background-color: black;
+      position: fixed;
+      width: 100%;
+    
+    
+}
+.nav-ul{
+    display: inline-flex;
+    list-style-type: none;
+    font-size:20px;
+  
+    
+}
+
+
+li   .link-header{
+       text-decoration:none ;
+       color: white;
+       margin-left:40px;
+      
+}
